@@ -1,1 +1,32 @@
-style.css
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+	background-color: #F8F8F8;
+}
+
+.first-section{
+	background-color: #34495E;
+	height: 100vh;
+}
+
+.first-section h1{
+	padding-top: 2em;
+	color: #FFF;
+	font-size: 70px;
+}
+
+#showApp{
+	color: #FFF;
+	font-weight: 400;
+}
+
+.first-section li{
+	color: #BFBFBF;
+}
+
+.first-section li:hover{
+	color: #B1B1B1;
+	background-color: #E7E7E7;
+}
