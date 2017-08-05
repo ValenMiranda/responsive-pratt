@@ -65,10 +65,57 @@ a.navbar-brand{
 .screenshots{
 	width: 100%;
 	margin: auto;
-	background-color: #34495E; /*azul*/
-	text-align: center;	
+	background-color: #34495E;
 }
 .screenshots h1{
 	color: white;
 	padding: 30px;
+}
+/************FOOTER************/
+.footer{
+	background-color: #2F2F2F;
+	width: 100%;
+	color: white;
+}
+.footer label, .footer input, .footer button{
+	display: block;
+}
+.footer input{
+	color: black;
+}
+#comentId{
+	line-height: 30px;
+}
+.footer button{
+	background-color: #5cb85b;
+	border: none;
+	border-radius: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 10px;
+}
+.footer input{
+	width: 80%;
+	border-radius: 4px;
+}
+.footer label{
+	padding-top: 5px;
+}
+.final{
+	background-color: black;
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+}
+input.hideInput{
+	border: none;
+	border-bottom: 1px solid #BDBCC3;
+	padding: 10px;
+	width: 90%;	
+}
+input.showInput{
+	background-image: url(../img/error.png);
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	background-position: right;
 }
