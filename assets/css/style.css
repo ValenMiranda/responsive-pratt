@@ -61,3 +61,14 @@ a.navbar-brand{
 	height: 1px;
 	background-color: silver;
 }
+/***********third section***********/
+.screenshots{
+	width: 100%;
+	margin: auto;
+	background-color: #34495E; /*azul*/
+	text-align: center;	
+}
+.screenshots h1{
+	color: white;
+	padding: 30px;
+}
