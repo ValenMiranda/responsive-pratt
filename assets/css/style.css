@@ -37,3 +37,27 @@ a.navbar-brand{
 	border: none;
 	text-align: center;
 }
+/**********Second section************/
+.second-section{
+	background-color: #F1F1F1;
+	text-align: center;
+}
+.second-section img{
+	margin:auto;
+}
+.new{
+	background-color: #F1F1F1;
+}
+.new h3{
+	color: #98e2cd;
+}
+.new img{
+	margin-left: 20%;
+	margin-bottom: 50px;
+}
+#line{
+	width: 80%;
+	margin: 0 auto;
+	height: 1px;
+	background-color: silver;
+}
